@@ -25,7 +25,7 @@ const MovieCard = () => {
       />
       <CardContent>
         <Typography variant="h5" gutterBottom component="div">
-         Sonic monic
+         Sonic monic asd
         </Typography>
         <Typography variant="subtitle1" gutterBottom>
      Apr, 08, 2020
